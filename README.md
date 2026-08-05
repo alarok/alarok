@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="banner.png" alt="alarok" width="100%">
+  <img src="banner-v2.png" alt="alarok" width="100%">
 </p>
 
-Software engineer. I write JavaScript and Python for a living, and I keep doing it in my free time, which I have mixed feelings about.
+Software engineer. I work in JavaScript and Python, and I still use them in my free time.
 
-I like tools I don't have to think about. Current rotation: bun, Hono, Tailwind.
+I like tools that stay out of the way. These days that means bun, Hono, and Tailwind.
 
 <p>
   <img src="https://cdn.simpleicons.org/javascript/8b949e" width="20" height="20" alt="JavaScript">
@@ -14,8 +14,8 @@ I like tools I don't have to think about. Current rotation: bun, Hono, Tailwind.
   <img src="https://cdn.simpleicons.org/tailwindcss/8b949e" width="20" height="20" alt="Tailwind">
 </p>
 
-**Languages:** TypeScript, JavaScript, Python, SQL (more than I like to admit).
+**Languages:** TypeScript, JavaScript, Python, SQL.
 
-**Currently:** working as a software engineer. There's a side project that keeps growing and I keep telling myself it's almost done.
+**Now:** working as a software engineer. I also have a side project that keeps growing.
 
-Some repos here are experiments that got out of hand. The rest are ones I actually ship. Both are usually functional.
+Most repos here are small tools I built because I needed them. Some are experiments. All of them work, usually.
