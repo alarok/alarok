@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="alarok" width="100%">
+  <img src="banner.png" alt="alarok" width="100%">
 </p>
 
 Software engineer. I write JavaScript and Python for a living, and I keep doing it in my free time, which I have mixed feelings about.
