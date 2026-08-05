@@ -13,6 +13,6 @@
     <animate attributeName="opacity" values="0.9;0.15;0.9" dur="1.6s" repeatCount="indefinite"/>
   </rect>
 
-  <text x="60" y="192" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8b949e">software engineer &#183; javascript &#183; python &#183; ai</text>
-  <text x="60" y="224" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#3fb950">bun &#183; hono &#183; tailwind</text>
+  <text x="60" y="192" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19" fill="#8b949e">Software engineer. JavaScript. Python. AI.</text>
+  <text x="60" y="224" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#3fb950">Bun. Hono. Tailwind.</text>
 </svg>
