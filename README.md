@@ -4,7 +4,7 @@
 
 Software engineer. I write JavaScript and Python for a living, and I keep doing it in my free time, which I have mixed feelings about.
 
-I like tools that stay out of the way. Current rotation: bun, Hono, Tailwind.
+I like tools I don't have to think about. Current rotation: bun, Hono, Tailwind.
 
 <p>
   <img src="https://cdn.simpleicons.org/javascript/8b949e" width="20" height="20" alt="JavaScript">
