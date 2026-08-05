@@ -13,7 +13,7 @@
 
 Software engineer. I write JavaScript and Python for work, and I still use them in my free time. I'm into AI, creative tools, and small experiments that grow into real things.
 
-I like tools I don't have to think about. Right now that's bun, Hono, and Tailwind.
+I like simplicity and efficiency. Right now that means bun, Hono, and Tailwind.
 
 **About me**
 
