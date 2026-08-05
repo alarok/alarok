@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-v2.png" alt="alarok" width="100%">
+  <img src="banner-v3.png" alt="alarok" width="100%">
 </p>
 
 <p align="center">
